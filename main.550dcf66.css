@@ -36,7 +36,7 @@
   font-size: 17px;
 }
 
-btn btn-success btn-lg,
-btn btn-info btn-lg {
+.btn btn-success btn-lg,
+.btn btn-info btn-lg {
   padding: 15px 15px;
 }	

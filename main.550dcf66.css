@@ -39,6 +39,9 @@
 .btn btn-success btn-lg,
 .btn btn-info btn-lg {
   padding: 15rem;
+  border-radius: 131px;
+  margin-left: 0px;
+  margin-right: 125px;
 }
 
 .h3 {
